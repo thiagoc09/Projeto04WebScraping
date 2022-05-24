@@ -44,12 +44,18 @@ h1 {
     width: 175px;
 }
 
-.botao {
-    height: 45px;
+a {
+    height: 30px;
     width: 110px;
     background: rgb(51, 29, 145);
     border-radius: 5px;
     color: white;
+    text-decoration: none;
+    display:inline-block;
+    cursor:pointer;
+    font-size:15px;
+    text-align: center;
+    padding-top: 16px;
 }
 
 .botao:hover {
