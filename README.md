@@ -1,7 +1,7 @@
-Projeto
-Projeto Interdisciplinar IV finalizado
+## Projeto 4 ESPM - QUARTO SESMESTRE - PROJETO WEB SCRAP
+## Projeto Interdisciplinar IV finalizado
 
-O projeto foi feito na pasta de arquivos node, arquivos DB_projeto.ipynb e create.sql
+### **O projeto foi feito na pasta de arquivos node, arquivos DB_projeto.ipynb e create.sql
 
 Integrantes do grupo
 Elton Leal Barbosa
@@ -12,10 +12,10 @@ Pedro Henrique Pompermayer Zotelli
 
 Thiago Caetano de Araujo
 
-Intuito do projeto
+## Intuito do projeto
 Como estamos a procura de estágio, a nossa motivação foi obter métricas relacionadas às vagas do mercado de tecnologia, utilizando uma visualização mais análitica das vagas.
 
-Execução do código
+## Execução do código
 1. Para a executar o Banco de dados
 Executar os seguintes scripts SQL:
 
@@ -47,7 +47,7 @@ CREATE VIEW `jobs` AS
         `empregos`.`requisitos` AS `requisitos`,
         `empregos`.`job_url` AS `job_url`
     from `empregos`;
-2.Para executar a raspagem:
+### Para executar a raspagem:
 Somente rodar o arquivo DB_projeto.ipynb
 
 jupyter DB_projeto.ipynb
