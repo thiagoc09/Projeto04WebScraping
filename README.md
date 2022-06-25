@@ -1,9 +1,8 @@
 ## Projeto 4 ESPM - QUARTO SESMESTRE - PROJETO WEB SCRAP
 ## Projeto Interdisciplinar IV finalizado
 
-### **O projeto foi feito na pasta de arquivos node, arquivos DB_projeto.ipynb e create.sql
 
-Integrantes do grupo
+### Integrantes do grupo
 Elton Leal Barbosa
 
 Leonardo Oliveira Tieppo
@@ -58,3 +57,6 @@ cd node
 Depois de acessar o arquivo node ir para o terminal e executar.
 
 npm start
+
+
+O projeto foi feito na pasta de arquivos node, arquivos DB_projeto.ipynb e create.sql
